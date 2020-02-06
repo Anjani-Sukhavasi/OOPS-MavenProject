@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.epam</groupId>
-  <artifactId>sandeep_oops</artifactId>
+  <artifactId>anjanisukhavasi_oops</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>sandeep_oops</name>
+  <name>anjanisukhavasi_oops</name>
   <url>http://maven.apache.org</url>
 
   <properties>
